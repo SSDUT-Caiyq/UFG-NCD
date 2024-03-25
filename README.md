@@ -38,7 +38,7 @@ You can download the datasets [here](https://github.com/XiaohanYu-GU/Ultra-FGVC)
 python supervised_learning.py --dataset SoyAgeing-R1 --task ncd
 ```
 
-## Discovery Learning:sparkles:
+## Discovery Learning :sparkles:
 
 ```bash
 python discovery_learning.py --dataset SoyAgeing-R1 --task ncd --pretrained ncd-supervised-SoyAgeing-R1-pc2.0-cra0.6-reg1.0.pth
