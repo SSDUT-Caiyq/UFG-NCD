@@ -1,5 +1,5 @@
 # UFG-NCD
-Official pytorch implementation of our paper: "Novel Class Discovery for Ultra-Fine-Grained Visual Categorization" (CVPR2024)
+Official pytorch implementation of our paper: "Novel Class Discovery for Ultra-Fine-Grained Visual Categorization" (CVPR2024 Highlight)
 
 *Camera-Ready Paper will be released soon.*
 
