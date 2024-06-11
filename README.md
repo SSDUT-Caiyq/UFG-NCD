@@ -7,7 +7,7 @@ Official pytorch implementation of our paper: [*Novel Class Discovery for Ultra-
 
 Our implementation is based on [uno](https://github.com/DonkeyShot21/UNO), while logging is performed using `wandb`, we use `conda` to create the environment and install the dependencies.
 
-Follow the commands blow to setup environment.
+Follow the commands below to setup environment.
 
 ```bash
 # create environment
