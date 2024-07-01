@@ -1,5 +1,5 @@
 # UFG-NCD
-Official pytorch implementation of our paper: [*Novel Class Discovery for Ultra-Fine-Grained Visual Categorization*](https://arxiv.org/abs/2405.06283) (CVPR2024 **Highlight**)
+Official pytorch implementation of our paper: [*Novel Class Discovery for Ultra-Fine-Grained Visual Categorization*](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Novel_Class_Discovery_for_Ultra-Fine-Grained_Visual_Categorization_CVPR_2024_paper.pdf) (CVPR2024 **Highlight**)
 
 ![overview](./assets/overview.jpg)
 
@@ -47,11 +47,13 @@ python discovery_learning.py --dataset SoyAgeing-R1 --task ncd --pretrained ncd-
 If you find our work helpful, please consider citing our paper:
 
 ```tex
-@inproceedings{Liu2024NovelCD
+@InProceedings{Liu_2024_CVPR,
+    author    = {Liu, Yu and Cai, Yaqi and Jia, Qi and Qiu, Binglin and Wang, Weimin and Pu, Nan},
     title     = {Novel Class Discovery for Ultra-Fine-Grained Visual Categorization},
-    author    = {Yu Liu and Yaqi Cai and Qi Jia and Binglin Qiu and Weimin Wang and Nan Pu},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year      = {2024}
+    month     = {June},
+    year      = {2024},
+    pages     = {17679-17688}
 }
 ```
 
